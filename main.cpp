@@ -26,7 +26,7 @@ int main()
         midVal = num1;
     } else if (num2 != minVal && num2 != maxVal){
         midVal = num2;
-    } else midVal = num3;
+    } else midVal = num3; 
 
     cout << maxVal << " " << midVal << " " << minVal << endl;
 
