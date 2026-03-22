@@ -16,7 +16,7 @@ int main()
         minVal = num2;
     } else minVal = num3;
 
-    if (num1 > num2 && num1 > 3){
+    if (num1 > num2 && num1 > num3){
         maxVal = num1;
     } else if (num2 > num1 && num2 > num3){
         maxVal = num2;
